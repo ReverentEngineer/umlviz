@@ -1,0 +1,9 @@
+*.pyc
+.tox
+*.egg-info
+parsetab.py
+parser.out
+/build
+/.coverage
+/pytest.xml
+/coverage.xml

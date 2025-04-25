@@ -1,0 +1,5 @@
+class BaseClass {
+  int m_member1
+  int m_member2
+  print()
+}
