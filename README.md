@@ -15,5 +15,5 @@ class BaseClass {
 
 Generating a PNG from the command line:
 ```
-umlviz output-name png input.uvz # This takes o
+umlviz output-name png input.uvz 
 ``` 
