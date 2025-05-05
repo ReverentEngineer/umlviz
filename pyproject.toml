@@ -11,7 +11,7 @@ license = "MIT"
 keywords = ["UML"]
 classifiers = [
    "Development Status :: 4 - Beta",
-   "Intended Audience :: Developers""
+   "Intended Audience :: Developers"
 ]
 
 [project.scripts]
